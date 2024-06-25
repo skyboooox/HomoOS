@@ -8,4 +8,11 @@ Homo系统-自主研发国内微内核跨平台操作系统
 5. 通过兼容层兼容MS-DOS操作系统
 6. 我们不是抄袭DOS系统.如果你非要问,这个是为了软件生态,在接下来的更新中我们会完全移除MS-DOS代码.借鉴和模范开源软件是很常见的事情，开源项目属于全人类。
 ---
-Homo系统核心[HomoOS-Core](https://github.com/skyboooox/HomoOS) :采用组件化的设计方案,可以根据设备的资源能力和业务特征进行灵活裁剪，满足不同形态的终端设备对于操作系统的要求.比其他系统~~臭~~快  500%
+CEO田所大嘴称Homo OS是一个基于微内核架构（HENTAI 114.514），模块化、面向对象、可移植、可扩展、全场景、适配多终端的分布式操作系统，
+
+支持PowerPC、x86、ARM等多种架构；
+支持雷普从PDAs、到PC、到工作站、到服务器到皮燕子各种设备；
+将具有多种personalities，可以运行Windows、OS/2、OS/400、UNIX、AIX和MacOS应用。
+赵淳平明称之为the Grand Unifying Theory of Systems，操作系统的大统一理论。
+
+Homo系统核心[HomoOS-Core](https://github.com/skyboooox/HomoOS) :采用组件化的设计方案,可以根据设备的资源能力和业务特征进行灵活裁剪，满足不同形态的终端设备对于操作系统的要求.比其他系统~~臭~~快  514%
